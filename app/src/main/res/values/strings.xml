@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Your Fest</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Artista</string>
+    <string name="nav_header_subtitle">Fernando Tôrres</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="modelo_fragment">Cliente VIP</string>
+
+
+    <!-- Opções do menu Lateral Drawer -->
+    <string name="fragmento_adicionar_cliente">Adicionar Artista</string>
+    <string name="fragmento_preto">Fragmento Preto</string>
+    <string name="fragmento_vermelho">Fragmento Vermelho</string>
+    <string name="fragmento_azul">Fragmento Azul</string>
+    <string name="fragmento_listar_clientes">Listar Artistas</string>
+    <string name="fragmento_listar_clientes_cards">Listar Artistas (Cards)</string>
+
+    <!-- Opções do menu principal -->
+    <string name="meu_perfil">Meu perfil</string>
+    <string name="action_settings">Sair</string>
+
+    <!-- Texto para layout Adionar Novo Cliente-->
+
+    <string name="novoCliente">Adicionar Novo Artista</string>
+    <string name="txtPerfilContato">Perfil e Contato</string>
+    <string name="txtEndereco">Endereço</string>
+
+
+    <string name="txtTextoInicio"> Esse é o Portal para quem está procurando um local para sair e se divertir. Ou mesmo
+    saber o local onde o seu artista favorito estará cantando. Nossa plataforma vai te ajudar a escolher seu rolê.
+    É um prazer ter você aqui!
+        </string>
+    <string name="txtTelaInicio">Seu rolê está garantido</string>
+
+
+
+</resources>
